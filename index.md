@@ -16,9 +16,14 @@ I am currently working as a Software Engineer in the Visual Display division of 
 <b>Ishan Tarunesh</b>, Sushil Khyalia, vishwajeet kumar, Ganesh Ramakrishnan and Preethi Jyothi<br>
 European Chapter of the Association for Computational Linguistics (**EACL**) 2021 
 
+<h4 style='display:inline;'> Predicting traffic volume and occupancy at failed detectors <a href="https://www.sciencedirect.com/science/article/pii/S2352146520305512">[Paper]</a></h4>
+<b>Ishan Tarunesh</b>, Edward Chung<br>
+World Conference on Transport Research (**WCTR**) 2019 <br>
+Transportation Research Procedia (journal vol 48, 2020, pg 1072-1083)
+
 ## Technical Reports
 
-<h4 style='display:inline;'> Stem-driven Language Models for Morphologically Rich Languages</h4>
+<h4 style='display:inline;'> Stem-driven Language Models for Morphologically Rich Languages <a href="https://arxiv.org/abs/1910.11536">[arXiv]</a></h4>
 Yash Shah<sup>†</sup>, <b>Ishan Tarunesh</b><sup>†</sup>, Harsh Deshpande, Preethi Jyothi<br>
 (joint work)
 <!-- European Chapter of the Association for Computational Linguistics (**EACL**) 2021 -->
