@@ -14,11 +14,11 @@ I am currently working as a Software Engineer in the Visual Display division of 
 
 <h4 style='display:inline;'> Meta-Learning for Effective Multi-task and Multilingual Modelling</h4>
 <b>Ishan Tarunesh</b>, Sushil Khyalia, vishwajeet kumar, Ganesh Ramakrishnan and Preethi Jyothi<br>
-European Chapter of the Association for Computational Linguistics (**EACL**) 2021 
+European Chapter of the Association for Computational Linguistics. **EACL 2021** 
 
 <h4 style='display:inline;'> Predicting traffic volume and occupancy at failed detectors <a href="https://www.sciencedirect.com/science/article/pii/S2352146520305512">[Paper]</a></h4>
 <b>Ishan Tarunesh</b>, Edward Chung<br>
-World Conference on Transport Research (**WCTR**) 2019 <br>
+World Conference on Transport Research. **WCTR 2019** <br>
 Transportation Research Procedia (journal vol 48, 2020, pg 1072-1083)
 
 ## Technical Reports
