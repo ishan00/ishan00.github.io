@@ -17,7 +17,7 @@ I am currently working as a Software Engineer in the Visual Display division of 
 <b>Ishan Tarunesh</b>, Syamantak Kumar and Preethi Jyothi<br>
 Association for Computational Linguistics & International Joint Conference on Natural Language Processing **ACL-IJCNLP 2021** 
 
-<h4 style='display:inline;'> Meta-Learning for Effective Multi-task and Multilingual Modelling <a href="https://arxiv.org/abs/2101.10368">[arXiv]</a></h4>
+<h4 style='display:inline;'> Meta-Learning for Effective Multi-task and Multilingual Modelling <a href="https://www.aclweb.org/anthology/2021.eacl-main.314.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2101.10368">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Sushil Khyalia, vishwajeet kumar, Ganesh Ramakrishnan and Preethi Jyothi<br>
 European Chapter of the Association for Computational Linguistics. **EACL 2021** 
 
