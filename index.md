@@ -13,7 +13,7 @@ I am currently working as a Software Engineer in the Visual Display division of 
 
 ## Publications
 
-<h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://arxiv.org/abs/2107.06483"[arXiv]</a></h4>
+<h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://arxiv.org/abs/2107.06483">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Syamantak Kumar and Preethi Jyothi<br>
 Association for Computational Linguistics & International Joint Conference on Natural Language Processing **ACL-IJCNLP 2021** 
 
