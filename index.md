@@ -27,7 +27,7 @@ European Chapter of the Association for Computational Linguistics. <span style="
 
 <h4 style='display:inline;'> Predicting traffic volume and occupancy at failed detectors <a href="https://www.sciencedirect.com/science/article/pii/S2352146520305512">[Paper]</a></h4>
 <b>Ishan Tarunesh</b>, Edward Chung<br>
-World Conference on Transport Research. **WCTR 2019** <br>
+World Conference on Transport Research. <span style="background-color:#28B463; color:#fff; padding:3px; border-radius:4px">WCTR 2019</span> <br>
 Transportation Research Procedia (journal vol 48, 2020, pg 1072-1083)
 
 <h4 style='display:inline;'> Stem-driven Language Models for Morphologically Rich Languages <a href="https://arxiv.org/abs/1910.11536">[arXiv]</a></h4>
