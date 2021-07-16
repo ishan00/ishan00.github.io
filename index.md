@@ -19,11 +19,11 @@ I am currently working as a Software Engineer in the Visual Display division of 
 
 <h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://arxiv.org/abs/2107.06483">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Syamantak Kumar and Preethi Jyothi<br>
-Association for Computational Linguistics & International Joint Conference on Natural Language Processing **ACL-IJCNLP 2021** 
+Association for Computational Linguistics & International Joint Conference on Natural Language Processing <strong><i style="color:#28B463">ACL-IJCNLP 2021</i></strong> 
 
 <h4 style='display:inline;'> Meta-Learning for Effective Multi-task and Multilingual Modelling <a href="https://www.aclweb.org/anthology/2021.eacl-main.314.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2101.10368">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Sushil Khyalia, vishwajeet kumar, Ganesh Ramakrishnan and Preethi Jyothi<br>
-European Chapter of the Association for Computational Linguistics. **EACL 2021** 
+European Chapter of the Association for Computational Linguistics. <strong><i style="color:#28B463">EACL 2021</i></strong>
 
 <h4 style='display:inline;'> Predicting traffic volume and occupancy at failed detectors <a href="https://www.sciencedirect.com/science/article/pii/S2352146520305512">[Paper]</a></h4>
 <b>Ishan Tarunesh</b>, Edward Chung<br>
