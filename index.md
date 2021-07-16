@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently working as a Software Engineer in the Visual Display division of Samsung Electronics, South Korea. I graduated from Computer Science and Engineering department at Indian Institute of Technology Bombay. In my final year I worked with Prof. Preethi Jyothi on generative models for code-switched and Prof. Ganesh Ramakrishnan (along with Prof. Jyothi) on meta learning for multilingual multitask setup.
+I am currently working as a Software Engineer in the Visual Display division of Samsung Electronics, South Korea. I graduated from Computer Science and Engineering department at Indian Institute of Technology Bombay. In my final year I worked with Prof. Preethi Jyothi on generative models for code-switching and Prof. Ganesh Ramakrishnan (along with Prof. Jyothi) on meta learning for multilingual multitask setup. I also had the opportunity to collaborate with Somak Aditya and Dr. Monojit Choudhury from Microsoft Research (MSR) India.
 
 ## News
 **[Jul 2021]** New work on titled <i>Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task</i> is up on Arxiv<br>
