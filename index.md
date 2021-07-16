@@ -7,11 +7,15 @@ layout: homepage
 I am currently working as a Software Engineer in the Visual Display division of Samsung Electronics, South Korea. I graduated from Computer Science and Engineering department at Indian Institute of Technology Bombay. In my final year I worked with Prof. Preethi Jyothi on generative models for code-switched and Prof. Ganesh Ramakrishnan (along with Prof. Jyothi) on meta learning for multilingual multitask setup.
 
 ## News
+**[Jul 2021]** New work on titled <i>Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task</i> is up on Arxiv<br>
 **[May 2021]** Paper titled <i>From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text</i> accepted at ACL-IJCNLP 2021<br>
 **[Jan 2021]** Paper titled <i>Meta-Learning for Effective Multi-task and Multilingual Modelling</i> accepted at EACL 2021<br>
 **[Aug 2020]** Graduated from IIT Bombay and received Excellence in Research award from the department
 
-## Publications
+## Publications & Preprints
+
+<h4 style='display:inline;'> Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task <a href="https://arxiv.org/abs/2107.07229">[arXiv]</a></h4>
+<b>Ishan Tarunesh</b>, Somak Aditya and Monojit Choudhury<br>
 
 <h4 style='display:inline;'> From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text <a href="https://arxiv.org/abs/2107.06483">[arXiv]</a></h4>
 <b>Ishan Tarunesh</b>, Syamantak Kumar and Preethi Jyothi<br>
@@ -26,15 +30,11 @@ European Chapter of the Association for Computational Linguistics. **EACL 2021**
 World Conference on Transport Research. **WCTR 2019** <br>
 Transportation Research Procedia (journal vol 48, 2020, pg 1072-1083)
 
-## Technical Reports
-
 <h4 style='display:inline;'> Stem-driven Language Models for Morphologically Rich Languages <a href="https://arxiv.org/abs/1910.11536">[arXiv]</a></h4>
 Yash Shah<sup>†</sup>, <b>Ishan Tarunesh</b><sup>†</sup>, Harsh Deshpande, Preethi Jyothi<br>
 (joint work)
-<!-- European Chapter of the Association for Computational Linguistics (**EACL**) 2021 -->
 
 <h1 style='display:inline;'><a href="#">CV</a></h1>(to be uploaded soon)
-
 
 <!--
 ## Others
